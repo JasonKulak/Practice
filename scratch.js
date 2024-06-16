@@ -22,3 +22,7 @@ function greet(){
     return "hello World";
 }
 console.log(greet())
+
+// const greet = () => "hello world"
+
+// console.log(greet())
